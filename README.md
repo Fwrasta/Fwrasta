@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Husla!
+- 👋 Hi, I’m @Fwrasta
 - 👀 I’m interested in games, designs
 - 🌱 I’m currently learning graphics design and coding
 - 💞️ I’m looking to collaborate on coding
